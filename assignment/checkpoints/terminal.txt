@@ -13,7 +13,7 @@ An output that I would expect when running "ls" in an empty folder it will retur
 # 6 - What is a quick way to create a new file?
 A quick way to create a new file is with the command "touch".
 # 7 - Run 'git --version' in your terminal. What is the output?
-
+git version 2.32.1 (Apple Git-133)
 # 8 - Why would you run the command 'git status'?
 Someone would run "git status" to check the status of their project and where any changes have been made that have not been saved. 
 # 9 - What does the command 'git add .' do?
